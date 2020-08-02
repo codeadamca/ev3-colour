@@ -3,6 +3,8 @@ A Python snippet utilizing the LEGO EV3 colour sensor, the LEGO EV3 Brick and [P
 
 This example changes the colour of the EV3 Brick based on the colour sensor. 
 
+The [Documentation for Pybricks](https://docs.pybricks.com/en/latest/ev3devices.html) is really helpful.
+
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
