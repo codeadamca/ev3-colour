@@ -14,6 +14,7 @@ This example changes the colour of the EV3 Brick based on the colour sensor.
 - [Pybricks](https://pybricks.com/)
 - [Python for EV3](https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
